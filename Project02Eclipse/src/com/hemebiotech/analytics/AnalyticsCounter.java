@@ -25,7 +25,7 @@ public class AnalyticsCounter {
 
 	}
 	/**
-	 * On récupère la liste des symptômes de l'instance getSymptom de ISymptomReader.
+	 * On récupère la liste des symptômes de l'instance ISymptomReader.
 	 * On retourne La liste des symptômes.
 	 */
 	public List<String> getSymptoms	() {
