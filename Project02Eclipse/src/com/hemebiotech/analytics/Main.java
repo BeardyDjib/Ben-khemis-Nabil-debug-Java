@@ -5,7 +5,7 @@ import java.util.Map;
 /**
  * La classe Main est la classe de pilotage du programme.
  */
-public class main {
+public class Main {
     /**
      * Méthode principale du programme.
      *
